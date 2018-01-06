@@ -8,3 +8,12 @@
 
 **Links to work:** 
 http://www.detrickdeburr.com
+https://github.com/ShellShockQ/DetrickDeBurr.Com/commit/a82bdb296bf5690eb1142f94373c53b5f614f680
+
+### Day 2: Jan. 7th, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Links to work:** 
