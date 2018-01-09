@@ -18,4 +18,4 @@ https://github.com/ShellShockQ/DetrickDeBurr.Com/commit/a82bdb296bf5690eb1142f94
 
 **Links to work:** 
 www.detrickdeburr.com
-
+https://github.com/ShellShockQ/DetrickDeBurr.Com/commit/b81d70445a041543d1df8f835a0af10db652f9c8
