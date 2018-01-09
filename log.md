@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: Jan. 6th, 2018
+### Round1 Day 1: Jan. 6th, 2018
 
 **Today's Progress**: Posted a placeholder website to my domain name
 
@@ -10,10 +10,12 @@
 http://www.detrickdeburr.com
 https://github.com/ShellShockQ/DetrickDeBurr.Com/commit/a82bdb296bf5690eb1142f94373c53b5f614f680
 
-### Day 2: Jan. 7th, 2018
+### Round1 Day 2: Jan. 7th, 2018
 
-**Today's Progress**: 
+**Today's Progress**: I posted schedule a FB frame for MLK's birthday and I updated the photo on my personal website
 
-**Thoughts:** 
+**Thoughts:** I don't really like that photo but I allowed me to get a little practice working with CSS and images as backgrounds.
 
 **Links to work:** 
+www.detrickdeburr.com
+
