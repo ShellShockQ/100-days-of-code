@@ -19,3 +19,12 @@ https://github.com/ShellShockQ/DetrickDeBurr.Com/commit/a82bdb296bf5690eb1142f94
 **Links to work:** 
 www.detrickdeburr.com
 https://github.com/ShellShockQ/DetrickDeBurr.Com/commit/b81d70445a041543d1df8f835a0af10db652f9c8
+
+### Round1 Day 3: Jan. 10th, 2018
+
+**Today's Progress**: I started the Android Developer Nanodegree program
+
+**Thoughts:** I have started on this once before so the first few lessons is really refresher information.
+
+**Links to work:** 
+https://github.com/ShellShockQ/ud851-Exercises
