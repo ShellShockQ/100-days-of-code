@@ -28,3 +28,11 @@ https://github.com/ShellShockQ/DetrickDeBurr.Com/commit/b81d70445a041543d1df8f83
 
 **Links to work:** 
 https://github.com/ShellShockQ/ud851-Exercises
+
+### Round1 Day 4: Jan. 11th, 2018
+
+**Today's Progress**: Created a static scrollview activity per the Android Developer Course
+
+**Thoughts:** Right not things are pretty elementary, so its moving rather quickly. 
+
+**Links to work:** 
