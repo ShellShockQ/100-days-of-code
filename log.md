@@ -36,3 +36,4 @@ https://github.com/ShellShockQ/ud851-Exercises
 **Thoughts:** Right not things are pretty elementary, so its moving rather quickly. 
 
 **Links to work:** 
+https://github.com/ShellShockQ/ud851-Exercises/commit/ad2b27b257a6032ede70bd9398aa54608ccebd9e
