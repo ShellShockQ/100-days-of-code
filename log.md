@@ -37,3 +37,11 @@ https://github.com/ShellShockQ/ud851-Exercises
 
 **Links to work:** 
 https://github.com/ShellShockQ/ud851-Exercises/commit/ad2b27b257a6032ede70bd9398aa54608ccebd9e
+
+### Round1 Day 5: Jan. 15th, 2018
+
+**Today's Progress**: I worked through lesson 3 of the Udacity course
+
+**Thoughts:** Although I have used menus quite often this is the first time I actually understood them. I like that they are going back over the basic. 
+
+**Links to work:** 
