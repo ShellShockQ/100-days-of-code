@@ -46,3 +46,15 @@ https://github.com/ShellShockQ/ud851-Exercises/commit/ad2b27b257a6032ede70bd9398
 
 **Links to work:** 
 https://github.com/ShellShockQ/ud851-Exercises/commit/a807375901b5c2f71176aa152bcbb9d9da3b5405
+
+
+### Round1 Day 6: Jan. 17th, 2018
+
+**Today's Progress**: Continued working through the udacity Android Development course
+
+**Thoughts:** We worked with making HTTP calls using an Async Task. I believe I want to look at the one of the libraries like retrofit. I believe using on the of the libraries will be much easier. But understanding how things work under the hid is great. 
+
+**Links to work:** 
+https://github.com/ShellShockQ/ud851-Exercises/commit/a807375901b5c2f71176aa152bcbb9d9da3b5405
+
+https://github.com/ShellShockQ/ud851-Exercises/commit/ae8262dbf2c1ca81f421e2b2b6f888ea62df80c8
