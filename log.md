@@ -55,6 +55,14 @@ https://github.com/ShellShockQ/ud851-Exercises/commit/a807375901b5c2f71176aa152b
 **Thoughts:** We worked with making HTTP calls using an Async Task. I believe I want to look at the one of the libraries like retrofit. I believe using on the of the libraries will be much easier. But understanding how things work under the hid is great. 
 
 **Links to work:** 
-https://github.com/ShellShockQ/ud851-Exercises/commit/a807375901b5c2f71176aa152bcbb9d9da3b5405
-
 https://github.com/ShellShockQ/ud851-Exercises/commit/ae8262dbf2c1ca81f421e2b2b6f888ea62df80c8
+
+### Round1 Day 7: Jan. 20th, 2018
+
+**Today's Progress**: I added a story section to the GTG2018 website and I completed Lesson 3 of the android developer course
+
+**Thoughts:** I got stuck on a few concepts today. Of course I eventually worked it out. I still need to get a better understanding of Async Tasks, URI.builder, HTTP networking in Android and the onCreateMenuInflater.
+
+**Links to work:** 
+www.gametimegiving.com/#story
+https://github.com/ShellShockQ/ud851-Sunshine/commit/230e5517b461f7034ebb551d18968c1bbdea0224
