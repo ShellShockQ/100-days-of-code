@@ -66,3 +66,12 @@ https://github.com/ShellShockQ/ud851-Exercises/commit/ae8262dbf2c1ca81f421e2b2b6
 **Links to work:** 
 www.gametimegiving.com/#story
 https://github.com/ShellShockQ/ud851-Sunshine/commit/230e5517b461f7034ebb551d18968c1bbdea0224
+
+### Round1 Day 8: Jan. 26th, 2018
+
+**Today's Progress**: I ifxed a bug in the Game Time Giving android app
+
+**Thoughts:** I'm goingn to rip out the volley project and replace it with retrofit. That should be interesting
+
+**Links to work:** 
+
